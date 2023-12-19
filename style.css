@@ -199,3 +199,9 @@ main > img{
         transform: translateX(-50px);
     }
 }
+
+@media screen and (max-width: 1080px) {
+    .boxtextleft{
+        display: none;
+    }
+}
